@@ -1,0 +1,11 @@
+C:\Users\nitin\source\repos\Opration\bin\Debug\Opration.exe.config
+C:\Users\nitin\source\repos\Opration\bin\Debug\Opration.exe
+C:\Users\nitin\source\repos\Opration\bin\Debug\Opration.pdb
+C:\Users\nitin\source\repos\Opration\obj\Debug\Opration.csproj.AssemblyReference.cache
+C:\Users\nitin\source\repos\Opration\obj\Debug\Opration.Form1.resources
+C:\Users\nitin\source\repos\Opration\obj\Debug\Opration.Properties.Resources.resources
+C:\Users\nitin\source\repos\Opration\obj\Debug\Opration.csproj.GenerateResource.cache
+C:\Users\nitin\source\repos\Opration\obj\Debug\Opration.csproj.CoreCompileInputs.cache
+C:\Users\nitin\source\repos\Opration\obj\Debug\Opration.exe
+C:\Users\nitin\source\repos\Opration\obj\Debug\Opration.pdb
+C:\Users\nitin\source\repos\Opration\obj\Debug\Opration.Form2.resources
